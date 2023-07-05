@@ -6,6 +6,7 @@
   - [Moodle-Inspired Website]() <b><i>(HTML/CSS, PHP, SQL)</b></i>
   - [Supervised Learning AI Algorithms]() <b><i>(Python, Linear Regression, K-Nearest Neighbours, Decision Tree)</b></i>
   - Find & Collect VR Game <b><i>(WebXR, C#, Unity)</b></i>
+  - [Simple Mobile Game](https://github.com/lukejkellet/Simple-Lua-Program) <b><i>(Lua, Solar2D)</b></i>
 
 <h2>📜 Certifications</h2>
 
