@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Event Sharing Web Application]() <b><i>(React, NodeJS, SQL)</b></i>
+  - [Event Sharing Web Application](https://github.com/lukejkellet/Event-Sharing-WebApp) <b><i>(React, NodeJS, SQL)</b></i>
   - [Moodle-Inspired Website]() <b><i>(HTML/CSS, PHP, SQL)</b></i>
   - [Supervised Learning AI Algorithms]() <b><i>(Python, Linear Regression, K-Nearest Neighbours, Decision Tree)</b></i>
   - [Find & Collect VR Game]() <b><i>(WebXR, C#, Unity)</b></i>
