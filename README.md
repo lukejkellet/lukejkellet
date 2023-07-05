@@ -12,7 +12,7 @@
 <h2>📜 Certifications</h2>
 
 - [First Class Honours - BSc Computer Science]()
-- [D* D* D - BTEC National Extended Certificate in Computing]()
+- [D* D* D - BTEC National Extended Diploma in Computing]()
 
 <h2> 🤳 Connect with me:</h2>
 
